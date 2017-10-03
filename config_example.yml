@@ -1,0 +1,14 @@
+
+hoffmanager:
+    musicsources:
+        - /home/exampleuser/Music
+    cachefile: /home/exampleuser/musiccache.json
+    playlist: /home/exampleuser/current.m3u
+    playlistcount: 100
+    extensions:
+        - .mp3
+        - .flac
+        - .wma
+        - .m4a
+        - .wav
+        - .ogg
